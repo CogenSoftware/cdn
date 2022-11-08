@@ -477,7 +477,7 @@ function ProductPrint(button) {
                 '<html>' +
                 '<head>' +
                 '<title>Yazdır</title>' +
-                '<link href="/Content/print.min.css?date=20062019-1" rel="stylesheet" />' +
+                '<link href="https://cdn.statically.io/gh/CogenSoftware/cdn/main/ETicaret/Content/print.min.css?date=20062019-1" rel="stylesheet" />' +
                 '</head>' +
                 '<body class="print" onload="window.print()">' +
                 '<div class="bilgi">' +
