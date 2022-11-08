@@ -1,0 +1,4 @@
+﻿$(function () {
+    $("#iKodUrlTipi").select2();
+
+});

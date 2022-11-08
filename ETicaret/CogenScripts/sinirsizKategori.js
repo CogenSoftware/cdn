@@ -1,0 +1,3 @@
+﻿$(function () {
+    $("#iKodKategori").select2();
+});

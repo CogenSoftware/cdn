@@ -1,0 +1,3 @@
+﻿$(function () {
+    $("#iVaryant").select2();
+});

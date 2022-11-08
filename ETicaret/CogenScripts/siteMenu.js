@@ -1,0 +1,3 @@
+﻿$(function () {
+    $("#iKodMenu").select2();
+});

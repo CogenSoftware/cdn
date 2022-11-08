@@ -1,0 +1,3 @@
+﻿$(function () {
+    $('#cFiyat').priceFormat(optionPriceFormat);
+});
